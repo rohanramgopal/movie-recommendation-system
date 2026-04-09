@@ -80,3 +80,40 @@ movie-recommendation-system/
 └── data/
     ├── movies.csv
     └── ratings.csv
+
+---
+## ⚙️ Installation
+- git clone git@github.com:rohanramgopal/movie-recommendation-system.git
+- cd movie-recommendation-system
+- python3 -m venv venv
+- source venv/bin/activate
+- pip install -r requirements.txt
+
+---
+
+## ▶️ Run the App
+streamlit run app.py
+
+---
+
+## 🚀 Future Enhancements
+- 🎬 Movie posters (TMDb API)
+- 🔍 Search functionality
+- 🧠 Hybrid recommendation system
+- ☁️ Cloud deployment
+- 👥 Real authentication system
+- 🎞 Netflix-style card UI
+- 💡 Why This Project Stands Out
+
+This is not just a recommender system — it is a product-style project combining:
+
+machine learning
+UI/UX design
+real-time interaction
+user-driven personalization
+
+---
+
+## 👨‍💻 Author
+
+**Rohan Ramgopal
