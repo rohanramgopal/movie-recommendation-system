@@ -79,7 +79,7 @@ movie-recommendation-system/
 ├── .gitignore
 └── data/
     ├── movies.csv
-    └── ratings.csv
+    └── ratings.csv 
 
 ---
 ## ⚙️ Installation
@@ -91,7 +91,7 @@ movie-recommendation-system/
 
 ---
 
-## ▶️ Run the App
+▶️ Run the App
 streamlit run app.py
 
 ---
