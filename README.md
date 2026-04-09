@@ -1,5 +1,5 @@
-# 🎬 CineMatch
-### Netflix-Inspired Movie Recommendation System
+# 🎬 CineMatch  
+### Netflix-Inspired Movie Recommendation System  
 
 ![Python](https://img.shields.io/badge/Python-3.10-blue?logo=python)
 ![Streamlit](https://img.shields.io/badge/Streamlit-App-red?logo=streamlit)
@@ -9,79 +9,65 @@
 
 ---
 
-## 📌 Overview
+## 🎥 Preview  
 
-CineMatch is a Netflix-inspired movie recommendation system built with **Python**, **Streamlit**, and **Machine Learning**.
+![Cinema Experience](https://media.giphy.com/media/l0MYt5jPR6QX5pnqM/giphy.gif)
+
+---
+
+## 📌 Overview  
+
+CineMatch is a **Netflix-inspired movie recommendation system** built using **Python, Streamlit, and Machine Learning**.
 
 It allows users to:
 
-- sign in through a styled login page
-- choose a viewer profile
-- explore popular movies
-- get personalized recommendations
-- add watched movies with ratings
-- improve recommendations using their updated watch history
-
-The project combines a cinematic interface with a collaborative filtering recommendation engine to create an engaging movie discovery experience.
+- 🔐 Sign in through a styled login page  
+- 👤 Choose a viewer profile  
+- 🎯 Get personalized movie recommendations  
+- 🔥 Explore trending/popular movies  
+- ⭐ Add watched movies and ratings  
+- 🧠 Improve recommendations using watch history  
 
 ---
 
-## ✨ Features
+## ✨ Features  
 
-- 🔐 Login page UI
-- 👤 Profile selection page
-- 🎯 Personalized movie recommendations
-- 🔥 Popular movie discovery
-- 🎭 Mood-based movie filtering
-- 🎬 Genre-based filtering
-- ➕ Add watched movies and ratings
-- 🧠 Recommendations influenced by watch history
-- 🎨 Netflix-style red and black UI
-
----
-
-## 🎥 Preview
-
-### 🔐 Login Experience
-![Login Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
-
-### 👤 Profile Selection
-![Profile Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
-
-### 🎯 Movie Recommendations
-![Recommendation Demo](https://media.giphy.com/media/8UGoOaR1lA1uaAN892/giphy.gif)
-
-### 🍿 Movie Browsing
-![Movie Browsing Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
-
-### 🎬 Cinematic Experience
-![Cinema Demo](https://media.giphy.com/media/l3vR85PnGsBwu1PFK/giphy.gif)
+- 🔐 Login page UI  
+- 👤 Profile selection (like Netflix)  
+- 🎯 Personalized recommendations  
+- 🔥 Popular movie discovery  
+- 🎭 Mood-based filtering  
+- 🎬 Genre filtering  
+- ➕ Add watched movies + ratings  
+- ⚡ Real-time recommendation updates  
+- 🎨 Netflix-style UI  
 
 ---
 
-## 🧠 How It Works
+## 🧠 How It Works  
 
-1. The system loads the MovieLens dataset.
-2. It creates a **user-movie rating matrix**.
-3. It uses **collaborative filtering** to find similar movie patterns.
-4. Users can add watched movies and ratings.
-5. The recommendation engine updates suggestions using this watch history.
-6. Mood and genre filters refine the final recommendations.
-
----
-
-## 🛠 Tech Stack
-
-- **Python**
-- **Pandas**
-- **NumPy**
-- **Scikit-learn**
-- **Streamlit**
-- **MovieLens Dataset**
+1. Load MovieLens dataset  
+2. Create **user-movie matrix**  
+3. Apply **collaborative filtering**  
+4. Generate recommendations based on:
+   - user history  
+   - similar movies  
+5. Apply filters (mood + genre)  
+6. Display results in UI  
 
 ---
 
-## 📂 Project Structure
+## 🛠 Tech Stack  
+
+- **Python**  
+- **Pandas / NumPy**  
+- **Scikit-learn**  
+- **Streamlit**  
+- **MovieLens Dataset**  
+
+---
+
+## 📂 Project Structure  
 
 ```bash
 movie-recommendation-system/
