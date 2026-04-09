@@ -43,13 +43,13 @@ The project combines a cinematic interface with a collaborative filtering recomm
 ## 🎥 Preview
 
 ### 🔐 Login Experience
-![Login Demo](https://media.giphy.com/media/l0MYC0LajbaPoEADu/giphy.gif)
+![Login Demo](https://media.giphy.com/media/l0HlBO7eyXzSZkJri/giphy.gif)
 
 ### 👤 Profile Selection
-![Profile Demo](https://media.giphy.com/media/3o7btPCcdNniyf0ArS/giphy.gif)
+![Profile Demo](https://media.giphy.com/media/26ufdipQqU2lhNA4g/giphy.gif)
 
-### 🎯 Recommendations
-![Recommendation Demo](https://media.giphy.com/media/3o7qE1YN7aBOFPRw8E/giphy.gif)
+### 🎯 Movie Recommendations
+![Recommendation Demo](https://media.giphy.com/media/8UGoOaR1lA1uaAN892/giphy.gif)
 
 ### 🍿 Movie Browsing
 ![Movie Browsing Demo](https://media.giphy.com/media/xT9IgzoKnwFNmISR8I/giphy.gif)
