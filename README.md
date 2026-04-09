@@ -83,12 +83,13 @@ movie-recommendation-system/
 
 ---
 ## ⚙️ Installation
-- git clone git@github.com:rohanramgopal/movie-recommendation-system.git
-- cd movie-recommendation-system
-- python3 -m venv venv
-- source venv/bin/activate
-- pip install -r requirements.txt
 
+```bash
+git clone git@github.com:rohanramgopal/movie-recommendation-system.git
+cd movie-recommendation-system
+python3 -m venv venv
+source venv/bin/activate
+pip install -r requirements.txt
 ---
 
 ▶️ Run the App
